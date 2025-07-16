@@ -1,0 +1,10 @@
+window-theme = system
+background-opacity = .64
+background-blur = 30
+background = #000000
+macos-titlebar-style = hidden
+auto-update = download
+auto-update-channel = stable
+macos-icon = glass
+window-padding-x = 10
+window-padding-y = 10
